@@ -57,4 +57,8 @@
 ## 🎨 Extras
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Snake animation](https://github.com/Prajwal-V-Naik/Prajwal-V-Naik/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajwal-V-Naik/Prajwal-V-Naik/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Prajwal-V-Naik/Prajwal-V-Naik/output/github-contribution-grid-snake.svg">
+</picture>
