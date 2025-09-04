@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=250&section=header&text=Prajwal%20V%20Naik&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=70)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=250&section=header&text=Prajwal%20V%20Naik&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Tech%20Explorer&descAlignY=70)
 
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Prajwal-V-Naik&label=Profile%20Views&color=blue&style=flat)
