@@ -1,29 +1,35 @@
-<!-- Profile views badge -->
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&style=flat)
+<!-- Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=250&section=header&text=Prajwal%20V%20Naik&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=70)
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Prajwal-V-Naik&label=Profile%20Views&color=blue&style=flat)
 
 # 👋 About Me
-**I am YOUR_NAME.**
+**I am Prajwal V Naik.**
 
-- 🚀 I’m currently working on: Full-stack solutions with React/Next.js, Node.js/FastAPI, security-focused development, and containerization & load balancing (Docker, Nginx, AWS).
-- 🤖 Interests: AI integration, LLM apps, backend performance tuning.
-- 📚 MCA student, building projects for real-world impact.
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![X](https://img.shields.io/badge/X-111111?logo=x&logoColor=white)](https://x.com/YOUR_X/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+- 🚀 Building **QRBridge**: A secure QR-based file-sharing app.
+- 💻 Skilled in React, Next.js, Node.js, FastAPI, Docker, AWS, Redis, and more.
+- 🤖 Interested in AI integration, security, and scalable systems.
+- 📚 MCA student with a strong focus on software engineering & cloud.
 
 ---
 
-## ⭐ Featured Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&show_owner=true&theme=dark)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pajju-dev-8431withyou/)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/PrajwalVNaik1)
+![Gmail](https://img.shields.io/badge/Contact%20Me-D14836?logo=gmail&logoColor=white)
 
-> Short line about the project: *“QR-based secure file sharing between devices with Node/Redis backend and React front-end.”*
+---
+
+## 🔥 Featured Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-V-Naik&repo=QRBridge&theme=radical)](https://github.com/Prajwal-V-Naik/QRBridge)
+
+> *QRBridge: Secure QR code–based file transfer app with a Node.js backend, Redis caching, and React frontend.*
 
 ---
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-V-Naik&layout=compact&theme=radical)
 
 ---
 
@@ -36,14 +42,19 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=ff9900)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=ff9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajwal-V-Naik&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prajwal-V-Naik&theme=radical)
 
+---
 
+## 🎨 Extras
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Snake animation](https://github.com/Prajwal-V-Naik/Prajwal-V-Naik/blob/output/github-contribution-grid-snake.svg)
