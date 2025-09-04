@@ -9,12 +9,7 @@
 
 - 🚀 Building **QRBridge**: A secure QR-based file-sharing app.
 - 💻 Skilled in React, Next.js, Node.js, FastAPI, Docker, AWS, Redis, and more.
-- 🤖 Interested in AI integration, securit## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajwal-V-Naik/Prajwal-V-Naik/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Prajwal-V-Naik/Prajwal-V-Naik/output/github-contribution-grid-snake.svg">
-</picture>
-y, and scalable systems.
+- 🤖 Interested in AI integration, security, and scalable systems.
 - 📚 MCA student with a strong focus on software engineering & cloud.
 
 ---
