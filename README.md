@@ -8,7 +8,7 @@
 **I am Prajwal V Naik.**
 
 - 🚀 Building **QRBridge**: A secure QR-based file-sharing app.
-- 💻 Skilled in React, Next.js, Node.js, FastAPI, Docker, AWS, Redis, and more.
+- 💻 Skilled in React, Next.js, Node.js, FastAPI, Redis, and more.
 - 🤖 Interested in AI integration, security, and scalable systems.
 - 📚 MCA student with a strong focus on software engineering & cloud.
 
